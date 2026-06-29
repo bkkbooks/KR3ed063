@@ -1,0 +1,323 @@
+canonical_identifier: bkk:krp/KR3ed063/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed063/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 儒醫心鏡
+  identifiers:
+    krp: KR3ed063
+  tags:
+    kr-categories: KR3ed
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed063.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed063_000-jc.yaml, hash: 'sha256:196c1f36b95b5b4c09a69f4b2e64cb4219a47c50e3110ffffeb5df085b74082f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed063_000-jc.markers.yaml, hash: 'sha256:f973d173c40a76ad079f0fc9bbe59ab094dc8c0555585a5346de2e0f5a6a78ca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 471
+  label: 一秘傳二陳湯加減法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d3.h1s1
+    span:
+    - body
+    - 471
+    - 998
+  label: 二秘傳四物湯加減法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d4.h1s1
+    span:
+    - body
+    - 998
+    - 1512
+  label: 三秘傳小柴胡湯加減法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5.h1s1
+    span:
+    - body
+    - 1512
+    - 27386
+  label: 四儒醫心鏡各症病原並用藥治法要訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d2
+    span:
+    - body
+    - 1528
+    - 3391
+  label: 中風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d3
+    span:
+    - body
+    - 3391
+    - 3614
+  label: 類中風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d4
+    span:
+    - body
+    - 3614
+    - 3740
+  label: 中氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d5
+    span:
+    - body
+    - 3740
+    - 3838
+  label: 痰厥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d6
+    span:
+    - body
+    - 3838
+    - 3951
+  label: 血暈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d7
+    span:
+    - body
+    - 3951
+    - 5464
+  label: 傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d8
+    span:
+    - body
+    - 5464
+    - 6140
+  label: 中寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d9
+    span:
+    - body
+    - 6140
+    - 6670
+  label: 瘟疫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d10
+    span:
+    - body
+    - 6670
+    - 7684
+  label: 中暑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d11
+    span:
+    - body
+    - 7684
+    - 8551
+  label: 中濕
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d12
+    span:
+    - body
+    - 8551
+    - 9869
+  label: 火熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d13
+    span:
+    - body
+    - 9869
+    - 10576
+  label: 疰夏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d14
+    span:
+    - body
+    - 10576
+    - 11047
+  label: 內傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d15
+    span:
+    - body
+    - 11047
+    - 11774
+  label: 傷食
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d16
+    span:
+    - body
+    - 11774
+    - 13461
+  label: 脾胃
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d17
+    span:
+    - body
+    - 13461
+    - 15200
+  label: 痰飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d18
+    span:
+    - body
+    - 15200
+    - 16033
+  label: 六郁
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d19
+    span:
+    - body
+    - 16033
+    - 17457
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d20
+    span:
+    - body
+    - 17457
+    - 18312
+  label: 喘症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d21
+    span:
+    - body
+    - 18312
+    - 20393
+  label: 瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d22
+    span:
+    - body
+    - 20393
+    - 22337
+  label: 痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d23
+    span:
+    - body
+    - 22337
+    - 23955
+  label: 泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d24
+    span:
+    - body
+    - 23955
+    - 25571
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d25
+    span:
+    - body
+    - 25571
+    - 26594
+  label: 嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d26
+    span:
+    - body
+    - 26594
+    - 27300
+  label: 膈噫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed063_jc_000-d5d27
+    span:
+    - body
+    - 27300
+    - 27386
+  label: 翻胃
+  type: section
+  level: 2
+hash: sha256:9a9f3bee28e67e2fe44cbf1c37cebfc62c030d319c5341bc991ecbf846cdcd47
