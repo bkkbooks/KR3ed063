@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed063/v1
 canonical_location: https://kanripo.org/bkk/KR3ed063/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 儒醫心鏡
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed063_000.yaml, hash: 'sha256:196c1f36b95b5b4c09a69f4b2e64cb4219a47c50e3110ffffeb5df085b74082f'}
+  - {seq: 0, filename: KR3ed063_000.yaml, hash: 'sha256:a72d1f2596d09f237576dd7e2527abe2bfc404f2796bad5cf652cec7257e6e86'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed063_000.markers.yaml, hash: 'sha256:3f924adb63fa2496376cb38551c8e8cc9c068ab53b2e4245082c9b2f332339ec'}
+  - {seq: 0, role: markers, filename: assets/KR3ed063_000.markers.yaml, hash: 'sha256:67906903bc80a27ef590ac4a8b2916daf48afe7ff20b0c5a05e16a265cfdabb0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -320,4 +320,7 @@ table_of_contents:
   label: 翻胃
   type: section
   level: 2
-hash: sha256:bd856522258c1744343b23d60dfd1156f5b07e05bde3e71665bfbc96bbcf4411
+hash: sha256:c3de5e53869f2ea8ebba23e72e8bef2adeae6adc16962bf8b362df2971b4b23b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
