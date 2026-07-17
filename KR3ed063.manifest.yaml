@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed063_000.yaml, hash: 'sha256:a72d1f2596d09f237576dd7e2527abe2bfc404f2796bad5cf652cec7257e6e86'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed063_000.markers.yaml, hash: 'sha256:67906903bc80a27ef590ac4a8b2916daf48afe7ff20b0c5a05e16a265cfdabb0'}
+  - {seq: 0, role: markers, filename: assets/KR3ed063_000.markers.yaml, hash: 'sha256:d62ac96f902dc38d63d9b84882d71477abc5db5c7ea0776d8ddecbbf52b668ac'}
 table_of_contents:
 - ref:
     seq: 0
@@ -320,7 +320,7 @@ table_of_contents:
   label: 翻胃
   type: section
   level: 2
-hash: sha256:c3de5e53869f2ea8ebba23e72e8bef2adeae6adc16962bf8b362df2971b4b23b
+hash: sha256:50ecea65cec6aac51e22c475ebc5c4719576715cc2d531aa73f885117050eba8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
